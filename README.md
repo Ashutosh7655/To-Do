@@ -1,2 +1,1 @@
-#
-A Full Stack Todo App
+#A Full Stack Todo App
